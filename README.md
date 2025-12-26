@@ -23,7 +23,7 @@ This project uses **Vite** for a fast development experience.
 1.  **Clone the repository:**
     ```bash
     git clone <your-repo-link>
-    cd student-report-page
+    cd student-report
     ```
 
 2.  **Install dependencies:**
